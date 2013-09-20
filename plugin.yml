@@ -1,0 +1,12 @@
+name: Dropper
+main: net.menking.ben.mc.dropper.DropperPlugin
+version: 1.0
+
+commands:
+  dropper:
+    description: Used to setup dropper station player is looking at
+    usage: /dropper [add|remove|reload] ...
+  contribute:
+    description: Give your old and unwanted items to those in need!
+    usage: /contribute
+    aliases: contrib
